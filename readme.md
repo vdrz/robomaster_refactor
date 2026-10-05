@@ -1,8 +1,6 @@
 # Симулятор кинематики мобильного робота
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Gazebo 11](https://img.shields.io/badge/Gazebo-11-blue)](http://gazebosim.org)
-[![ROS Noetic](https://img.shields.io/badge/ROS-Noetic-brightgreen)](http://wiki.ros.org/noetic)
 
 Десктопное приложение на Python, реализующее симуляцию движения мобильного робота. Управление осуществляется в реальном времени через отдельное окно с виртуальным джойстиком. Проект использует стандартную графическую библиотеку Tkinter и не требует установки сторонних зависимостей.
 
